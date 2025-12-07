@@ -1,0 +1,13 @@
+{
+  "plugins": [
+    {
+      "name": "about",
+      "display_name": "Chi Siamo",
+      "version": "1.0.0",
+      "description": "Gestisci pagina About",
+      "author": "Black Angel Team",
+      "download_url": "https://cdn.jsdelivr.net/gh/McRobert66/website-dynamic-plugin/about-1.0.0.zip",
+      "checksum": "sha256..."
+    }
+  ]
+}
