@@ -3,11 +3,21 @@
     {
       "name": "about",
       "display_name": "Chi Siamo",
+      "description": "Gestisci la pagina Chi Siamo con membri del team, missione, visione e storia",
       "version": "1.0.0",
-      "description": "Gestisci pagina About",
       "author": "Black Angel Team",
+      "size": "~50 KB",
       "download_url": "https://cdn.jsdelivr.net/gh/McRobert66/website-dynamic-plugin/about-1.0.0.zip",
-      "checksum": "sha256..."
+      "checksum": "61F709C8196F54506A4E370AA08BCCE5CFA9B566546C98080EF6996B019BC53A",
+      "requires": "1.0.0",
+      "screenshots": [
+        "https://cdn.jsdelivr.net/gh/McRobert66/website-dynamic/imagesplugins/about-screenshot-1.jpg"
+      ]
     }
-  ]
+  ],
+  "meta": {
+    "last_update": "2025-12-07",
+    "version": "1.0",
+    "api_version": "1.0"
+  }
 }
